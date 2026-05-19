@@ -1,0 +1,29 @@
+1_Roti           =900
+2_Bread          =94
+3_Roti Paris     =50
+4_Roti Bor       =79
+5_Larg Cake      =19
+6_Smal Cake      =10
+7_Larg Tamriah   =5
+8_Croasah        =3
+9_Pan            =1
+10_Tamrah Abo 20 =0
+11_Kodam         =105
+
+___________________________
+12_Left Roti          =10
+13_Left Bread         =4
+14_Left Roti Paris    =18
+15_Left Roti Bor      =6
+16_Left Larg Cake     =10
+17_Left Smal Cake     =4
+18_Left Larg Tamriah  =3
+19_Left Croasah       =3
+20_Left Pan           =1
+21_Left Tamrah Abo 20 =0
+22_Left Kodam         =0
+___________________________
+23_Ashraf Rafeeq❤ =600
+___________________________
+24_Local Outputs  =24100
+25_Global Outputs =17600
